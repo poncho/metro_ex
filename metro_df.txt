@@ -1,0 +1,162 @@
+Observatorio|1|0
+Tacubaya|1,7,9|108
+Juanacatlan|1|100
+Chapultepec|1|86
+Sevilla|1|50
+Insurgentes|1|61
+Cuauhtemoc|1|72
+Balderas|1,3|43
+Salto del Agua|1,8|47
+Isabel La Catolica|1,2|46
+Pino Suarez|1,2|41,82
+Merced|1|69
+Candelaria|4|65
+San Lazaro|1,11|78
+Moctezuma|1|48
+Balbuena|1|65
+Boulevard Puerto Aereo|1|57
+Gomez Farias|1|58
+Zaragoza|1|70
+Pantitlan|1,5,9,10|113
+Cuatro Caminos|2|0
+Panteones|2|164
+Tacuba|2,7|44
+Cuitlahuac|2|72
+Popotla|2|71
+Colegio Militar|2|56
+Normal|2|61
+San Cosme|2|74
+Revolucion|2|63
+Hidalgo|2,3|68
+Bellas Artes|2,8|55
+Allende|2|49
+Zocalo|2|69
+San Antonio Abad|2|89
+Chabacano|2,8,9|73,
+Viaducto|2|85
+Xola|2|59
+Villa de Cortes|2|78
+Nativitas|2|83
+Portales|2|98
+Ermita|2,12|82
+GeneralAnaya|2|91
+Tasqueña|2|136
+Indios Verdes|3|0
+Deportivo 18 de Marzo|3,6|117,
+Potrero|3|99
+La Raza|3,5|112,
+Tlatelolco|3|142,
+Guerrero|3,11|106
+Juarez|3|36
+Niños Heroes|3|73
+Hospital General|3|63
+Centro Medico|3,9|71,
+Etiopia|3|113
+Eugenia|3|98
+Division del Norte|3|77
+Zapata|3,12|84
+Coyoacan|3|116
+Viveros|3|94
+Miguel Angel de Quevedo|3|87
+Copilco|3|129
+Universidad|3|
+Martin Carrera|4,6|
+Talisman|4|
+Bondojito|4|
+Consulado|4,5|
+Canal del Norte|4|
+Morelos|4,11|
+Fray Servando|4|
+Jamaica|4,9|
+Santa Anita|4|
+Politecnico|5|
+Instituto del Petroleo|5,6|
+Autobuses del Norte|5|
+Misterios|5|
+Valle Gomez|5|
+Eduardo Molina|5|
+Aragon|5|
+Oceania|5,11|
+Terminal Aerea|5|
+Hangares|5|
+El Rosario|6,7|
+Tezozomoc|6|
+Azcapotzalco|6|
+Ferreria|6|
+Norte45|6|
+Lindavista|6|
+La Villa-Basilica|6|
+Aquiles Serdan|7|
+Camarones|7|
+Refineria|7|
+San Joaquin|7|
+Polanco|7|
+Auditorio|7|
+Constituyentes|7|
+San Pedro de los Pinos|7|
+San Antonio|7|
+Mixcoac|7,12|
+Barrancadel Muerto|7|
+Garibaldi|8,11|
+San Juan de Letran|8|
+Doctores|8|
+Obrera|8|
+La Viga|8|
+Coyuya|8|
+Iztacalco|8|
+Apatlaco|8|
+Aculco|8|
+Escuadron 201|8|
+Atlalilco|8,12|
+Iztapalapa|8|
+Cerro de la Estrella|8|
+UAM-I|8|
+Constitucion de 1917|8|
+Patriotismo|9|
+Chilpancingo|9|
+Lazaro Cardenas|9|
+Mixiuhca|9|
+Velodromo|9|
+Ciudad Deportiva|9|
+Puebla|9|
+Agricola Oriental|10|
+Canal de San Juan|10|
+Tepalcates|10|
+Guelatao|10|
+Peñon Viejo|10|
+Acatitla|10|
+Santa Martha|10|
+Los Reyes|10|
+La Paz|10|
+Buenavista||11|
+Lagunilla|11|
+Tepito|11|
+Flores Magon|11|
+Romero Rubio|11|
+Deportivo Oceania|11|
+Bosque de Aragon|11|
+Villa de Aragon|11|
+Nezahualcoyotl|11|
+Impulsora|11|
+Rio de los Remedios|11|
+Muzquiz|11|
+Ecatepec|11|
+Olimpica|11|
+Plaza Aragon|11|
+Ciudad Azteca|11|
+Insurgentes Sur|12|
+Hospital 20 de Noviembre|12|
+Parque de los Venados|12|
+Eje Central|12|
+Mexicaltzingo|12|
+Culhuacan|12|
+San Andres Tomatlan|12|
+Lomas Estrella|12|
+Calle 11|12|
+Periferico Oriente|12|
+Tezonco|12|
+Olivos|12|
+Nopalera|12|
+Zapotitlan|12|
+Tlaltengo|12|
+Tlahuac|12
