@@ -1,4 +1,8 @@
 defmodule Metro.CLI do
+	@default_metro "df"
+
+	def default_metro, do: @default_metro
+
   def main(argv) do
 		argv
 		|> parse_args
@@ -9,8 +13,9 @@ defmodule Metro.CLI do
 		parse = OptionParser.parse(argv, switches: [help: :boolean], aliases: [h: :help])
 		
 		case parse do
-			{ [help: true], _, _} -> :help
-			{ _, [station_1, station_2], _} -> { station_1, station_2 }
+			{[help: true], _, _} -> :help
+			{_, [station_1, station_2], _} -> { station_1, station_2, @default_metro }
+			{_, [station_1, station_2, metro_name], _} -> { station_1, station_2, metro_name }
 			_ -> :help
 		end
 	end
@@ -22,7 +27,7 @@ defmodule Metro.CLI do
 		System.halt(0)
 	end
 
-  def process({station_1, station_2}) do
-    
+  def process({station1_name, station2_name, metro_name}) do
+		Metro.Trip.create_trip(station1_name, station2_name, metro_name)
   end
 end
