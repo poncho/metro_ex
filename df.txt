@@ -1,46 +1,46 @@
-Observatorio|1|0
-Tacubaya|1,7,9|108,88,0
-Juanacatlan|1|100
-Chapultepec|1|86
-Sevilla|1|50
-Insurgentes|1|61
-Cuauhtemoc|1|72
-Balderas|1,3|43
-Salto del Agua|1,8|47
-Isabel La Catolica|1,2|46
-Pino Suarez|1,2|41,82
-Merced|1|69
-Candelaria|4|65
-San Lazaro|1,11|78,121
-Moctezuma|1|48
-Balbuena|1|65
-Boulevard Puerto Aereo|1|57
-Gomez Farias|1|58
-Zaragoza|1|70
-Pantitlan|1,5,9,10|113,155,100,0
-Cuatro Caminos|2|0
-Panteones|2|164
-Tacuba|2,7|44,110
-Cuitlahuac|2|72
-Popotla|2|71
-Colegio Militar|2|56
-Normal|2|61
-San Cosme|2|74
-Revolucion|2|63
-Hidalgo|2,3|68
-Bellas Artes|2,8|55,65
-Allende|2|49
-Zocalo|2|69
-San Antonio Abad|2|89
-Chabacano|2,8,9|73,108,85
-Viaducto|2|85
-Xola|2|59
-Villa de Cortes|2|78
-Nativitas|2|83
-Portales|2|98
-Ermita|2,12|82
-GeneralAnaya|2|91
-Tasqueña|2|136
+Observatorio|1|0|0
+Tacubaya|1,7,9|108,88,0|1
+Juanacatlan|1|100|2
+Chapultepec|1|86|3
+Sevilla|1|50|4
+Insurgentes|1|61|5
+Cuauhtemoc|1|72|6
+Balderas|1,3|43|7
+Salto del Agua|1,8|47|8
+Isabel La Catolica|1,2|46|9
+Pino Suarez|1,2|41,82|10,13
+Merced|1|69|11
+Candelaria|4|65|12
+San Lazaro|1,11|78,121|13
+Moctezuma|1|48|14
+Balbuena|1|65|15
+Boulevard Puerto Aereo|1|57|16
+Gomez Farias|1|58|17
+Zaragoza|1|70|18
+Pantitlan|1,5,9,10|113,155,100,0|19
+Cuatro Caminos|2|0|0
+Panteones|2|164|1
+Tacuba|2,7|44,110|2
+Cuitlahuac|2|72|3
+Popotla|2|71|4
+Colegio Militar|2|56|5
+Normal|2|61|6
+San Cosme|2|74|7
+Revolucion|2|63|8
+Hidalgo|2,3|68|9
+Bellas Artes|2,8|55,65|10
+Allende|2|49|11
+Zocalo|2|69|12
+San Antonio Abad|2|89|14
+Chabacano|2,8,9|73,108,85|15
+Viaducto|2|85|16
+Xola|2|59|17
+Villa de Cortes|2|78|18
+Nativitas|2|83|19
+Portales|2|98|20
+Ermita|2,12|82|21
+GeneralAnaya|2|91|22
+Tasqueña|2|136|23
 Indios Verdes|3|0
 Deportivo 18 de Marzo|3,6|117,102
 Potrero|3|99
@@ -60,7 +60,7 @@ Viveros|3|94
 Miguel Angel de Quevedo|3|87
 Copilco|3|129
 Universidad|3|130
-Martin Carrera|4,6|0,
+Martin Carrera|4,6|0,108
 Talisman|4|107
 Bondojito|4|92
 Consulado|4,5|66,72
