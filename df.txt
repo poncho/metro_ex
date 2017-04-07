@@ -1,163 +1,163 @@
 Observatorio|1|0|0
-Tacubaya|1,7,9|108,88,0|1
+Tacubaya|1,7,9|108,88,0|1,9,0
 Juanacatlan|1|100|2
 Chapultepec|1|86|3
 Sevilla|1|50|4
 Insurgentes|1|61|5
 Cuauhtemoc|1|72|6
-Balderas|1,3|43|7
-Salto del Agua|1,8|47|8
-Isabel La Catolica|1,2|46|9
+Balderas|1,3|43|7,9
+Salto del Agua|1,8|47|8,3
+Isabel La Catolica|1|46|9
 Pino Suarez|1,2|41,82|10,13
 Merced|1|69|11
-Candelaria|4|65|12
-San Lazaro|1,11|78,121|13
+Candelaria|1,4|65|12,6
+San Lazaro|1,11|78,121|13,6
 Moctezuma|1|48|14
 Balbuena|1|65|15
 Boulevard Puerto Aereo|1|57|16
 Gomez Farias|1|58|17
 Zaragoza|1|70|18
-Pantitlan|1,5,9,10|113,155,100,0|19
+Pantitlan|1,5,9,10|113,155,100,0|19,12,11,0
 Cuatro Caminos|2|0|0
 Panteones|2|164|1
-Tacuba|2,7|44,110|2
+Tacuba|2,7|44,110|2,4
 Cuitlahuac|2|72|3
 Popotla|2|71|4
 Colegio Militar|2|56|5
 Normal|2|61|6
 San Cosme|2|74|7
 Revolucion|2|63|8
-Hidalgo|2,3|68|9
-Bellas Artes|2,8|55,65|10
+Hidalgo|2,3|68|9,7
+Bellas Artes|2,8|55,65|10,1
 Allende|2|49|11
 Zocalo|2|69|12
 San Antonio Abad|2|89|14
-Chabacano|2,8,9|73,108,85|15
+Chabacano|2,8,9|73,108,85|15,6,5
 Viaducto|2|85|16
 Xola|2|59|17
 Villa de Cortes|2|78|18
 Nativitas|2|83|19
 Portales|2|98|20
-Ermita|2,12|82|21
+Ermita|2,12|82|21,6
 GeneralAnaya|2|91|22
 Tasqueña|2|136|23
-Indios Verdes|3|0
-Deportivo 18 de Marzo|3,6|117,102
-Potrero|3|99
-La Raza|3,5|112,97
-Tlatelolco|3|142
-Guerrero|3,11|106,56
-Juarez|3|36
-Niños Heroes|3|73
-Hospital General|3|63
-Centro Medico|3,9|71,99
-Etiopia|3|113
-Eugenia|3|98
-Division del Norte|3|77
-Zapata|3,12|84,75
-Coyoacan|3|116
-Viveros|3|94
-Miguel Angel de Quevedo|3|87
-Copilco|3|129
-Universidad|3|130
-Martin Carrera|4,6|0,108
-Talisman|4|107
-Bondojito|4|92
-Consulado|4,5|66,72
-Canal del Norte|4|86
-Morelos|4,11|88,54
-Fray Servando|4|101
-Jamaica|4,9|99,92
-Santa Anita|4,8|76,65
-Politecnico|5|0
-Instituto del Petroleo|5,6|116,75
-Autobuses del Norte|5|105
-Misterios|5|90
-Valle Gomez|5|97
-Eduardo Molina|5|84
-Aragon|5|87
-Oceania|5,11|119,81
-Terminal Aerea|5|115
-Hangares|5|113
-El Rosario|6,7|0,0
-Tezozomoc|6|117
-Azcapotzalco|6|94
-Ferreria|6|110
-Norte 45|6|102
-Vallejo|6|68
-Lindavista|6|117
-La Villa-Basilica|6|60
-Aquiles Serdan|7|134
-Camarones|7|118
-Refineria|7|84
-San Joaquin|7|120
-Polanco|7|100
-Auditorio|7|73
-Constituyentes|7|120
-San Pedro de los Pinos|7|94
-San Antonio|7|58
-Mixcoac|7,12|71,0
-Barrancadel Muerto|7|124
-Garibaldi|8,11|0,76
-San Juan de Letran|8|51
-Doctores|8|60
-Obrera|8|76
-La Viga|8|83
-Coyuya|8|93
-Iztacalco|8|95
-Apatlaco|8|88
-Aculco|8|57
-Escuadron 201|8|78
-Atlalilco|8,12|157,130
-Iztapalapa|8|74
-Cerro de la Estrella|8|72
-UAM-I|8|107
-Constitucion de 1917|8|107
-Patriotismo|9|120
-Chilpancingo|9|74
-Lazaro Cardenas|9|76
-Mixiuhca|9|90
-Velodromo|9|95
-Ciudad Deportiva|9|102
-Puebla|9|86
-Agricola Oriental|10|130
-Canal de San Juan|10|104
-Tepalcates|10|134
-Guelatao|10|109
-Peñon Viejo|10|196
-Acatitla|10|127
-Santa Martha|10|104
-Los Reyes|10|161
-La Paz|10|176
-Buenavista||11|0
-Lagunilla|11|52
-Tepito|11|64
-Flores Magon|11|89
-Romero Rubio|11|89
-Deportivo Oceania|11|85
-Bosque de Aragon|11|110
-Villa de Aragon|11|78
-Nezahualcoyotl|11|125
-Impulsora|11|130
-Rio de los Remedios|11|49
-Muzquiz|11|110
-Ecatepec|11|137
-Olimpica|11|63
-Plaza Aragon|11|72
-Ciudad Azteca|11|61
-Insurgentes Sur|12|73
-Hospital 20 de Noviembre|12|55
-Parque de los Venados|12|72
-Eje Central|12|85
-Mexicaltzingo|12|165
-Culhuacan|12|95
-San Andres Tomatlan|12|80
-Lomas Estrella|12|80
-Calle 11|12|60
-Periferico Oriente|12|60
-Tezonco|12|60
-Olivos|12|60
-Nopalera|12|60
-Zapotitlan|12|60
-Tlaltengo|12|60
-Tlahuac|12|70
+Indios Verdes|3|0|1
+Deportivo 18 de Marzo|3,6|117,102|2,8
+Potrero|3|99|3
+La Raza|3,5|112,97|4,3
+Tlatelolco|3|142|5
+Guerrero|3,11|106,56|6,1
+Juarez|3|36|8
+Niños Heroes|3|73|10
+Hospital General|3|63|11
+Centro Medico|3,9|71,99|12,3
+Etiopia|3|113|13
+Eugenia|3|98|14
+Division del Norte|3|77|15
+Zapata|3,12|84,75|16,3
+Coyoacan|3|116|17
+Viveros|3|94|18
+Miguel Angel de Quevedo|3|87|19
+Copilco|3|129|20
+Universidad|3|130|21
+Martin Carrera|4,6|0,108|0,10
+Talisman|4|107|1
+Bondojito|4|92|2
+Consulado|4,5|66,72|3,6
+Canal del Norte|4|86|4
+Morelos|4,11|88,54|5,5
+Fray Servando|4|101|7
+Jamaica|4,9|99,92|8,6
+Santa Anita|4,8|76,65|9,8
+Politecnico|5|0|0
+Instituto del Petroleo|5,6|116,75|1,6
+Autobuses del Norte|5|105|2
+Misterios|5|90|4
+Valle Gomez|5|97|5
+Eduardo Molina|5|84|7
+Aragon|5|87|8
+Oceania|5,11|119,81|9,9
+Terminal Aerea|5|115|10
+Hangares|5|113|11
+El Rosario|6,7|0,0|0,0
+Tezozomoc|6|117|1
+Azcapotzalco|6|94|2
+Ferreria|6|110|3
+Norte 45|6|102|4
+Vallejo|6|68|5
+Lindavista|6|117|7
+La Villa-Basilica|6|60|9
+Aquiles Serdan|7|134|1
+Camarones|7|118|2
+Refineria|7|84|3
+San Joaquin|7|120|5
+Polanco|7|100|6
+Auditorio|7|73|7
+Constituyentes|7|120|8
+San Pedro de los Pinos|7|94|10
+San Antonio|7|58|11
+Mixcoac|7,12|71,0|12,0
+Barranca del Muerto|7|124|13
+Garibaldi|8,11|0,76|0,2
+San Juan de Letran|8|51|2
+Doctores|8|60|4
+Obrera|8|76|5
+La Viga|8|83|7
+Coyuya|8|93|9
+Iztacalco|8|95|10
+Apatlaco|8|88|11
+Aculco|8|57|12
+Escuadron 201|8|78|13
+Atlalilco|8,12|157,130|14,8
+Iztapalapa|8|74|15
+Cerro de la Estrella|8|72|16
+UAM-I|8|107|17
+Constitucion de 1917|8|107|18
+Patriotismo|9|120|1
+Chilpancingo|9|74|2
+Lazaro Cardenas|9|76|4
+Mixiuhca|9|90|7
+Velodromo|9|95|8
+Ciudad Deportiva|9|102|9
+Puebla|9|86|10
+Agricola Oriental|10|130|1
+Canal de San Juan|10|104|2
+Tepalcates|10|134|3
+Guelatao|10|109|4
+Peñon Viejo|10|196|5
+Acatitla|10|127|6
+Santa Martha|10|104|7
+Los Reyes|10|161|8
+La Paz|10|176|9
+Buenavista||11|0|0
+Lagunilla|11|52|3
+Tepito|11|64|4
+Flores Magon|11|89|7
+Romero Rubio|11|89|8
+Deportivo Oceania|11|85|10
+Bosque de Aragon|11|110|11
+Villa de Aragon|11|78|12
+Nezahualcoyotl|11|125|13
+Impulsora|11|130|14
+Rio de los Remedios|11|49|15
+Muzquiz|11|110|16
+Ecatepec|11|137|17
+Olimpica|11|63|18
+Plaza Aragon|11|72|19
+Ciudad Azteca|11|61|20
+Insurgentes Sur|12|73|1
+Hospital 20 de Noviembre|12|55|2
+Parque de los Venados|12|72|4
+Eje Central|12|85|5
+Mexicaltzingo|12|165|7
+Culhuacan|12|95|9
+San Andres Tomatlan|12|80|10
+Lomas Estrella|12|80|11
+Calle 11|12|60|12
+Periferico Oriente|12|60|13
+Tezonco|12|60|14
+Olivos|12|60|15
+Nopalera|12|60|16
+Zapotitlan|12|60|17
+Tlaltengo|12|60|18
+Tlahuac|12|70|19
