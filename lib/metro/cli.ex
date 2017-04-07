@@ -28,6 +28,6 @@ defmodule Metro.CLI do
 	end
 
   def process({station1_name, station2_name, metro_name}) do
-		Metro.Trip.create_trip(station1_name, station2_name, metro_name)
+		Metro.Trip.create(station1_name, station2_name, metro_name)
   end
 end
